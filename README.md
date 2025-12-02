@@ -1,1 +1,1 @@
-me leia localmente
+me leia remotamente
