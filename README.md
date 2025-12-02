@@ -1,1 +1,1 @@
-me leia seu safado
+me leia localmente
