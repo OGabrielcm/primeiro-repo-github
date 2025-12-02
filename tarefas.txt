@@ -1,3 +1,5 @@
 1. Ler um livro
 2. Tomar café
 3. Tomar banho
+4. Ir para a universidade
+5. Ir para casa
